@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 552.37 375.4">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 22.48px;
+      }
+
+      .cls-2 {
+        fill: #f9a7b5;
+      }
+
+      .cls-3 {
+        fill: #ed833a;
+      }
+
+      .cls-4 {
+        fill: #42b677;
+      }
+
+      .cls-5 {
+        fill: #ffc228;
+      }
+
+      .cls-6 {
+        fill: #acded5;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="399.54" y="44.3" width="59.93" height="40.83"/>
+  <rect class="cls-4" x="399.54" y="105.55" width="59.93" height="40.83"/>
+  <rect class="cls-6" x="399.54" y="166.8" width="59.93" height="40.83"/>
+  <rect class="cls-2" x="399.54" y="228.05" width="59.93" height="40.83"/>
+  <rect class="cls-5" x="399.54" y="289.3" width="59.93" height="40.83"/>
+  <g>
+    <text class="cls-1" transform="translate(466.96 73.14)"><tspan x="0" y="0">47-75 år</tspan></text>
+    <text class="cls-1" transform="translate(466.96 134.39)"><tspan x="0" y="0">32-46 år</tspan></text>
+    <text class="cls-1" transform="translate(466.96 195.65)"><tspan x="0" y="0">25-31 år</tspan></text>
+    <text class="cls-1" transform="translate(466.96 256.9)"><tspan x="0" y="0">20-24 år</tspan></text>
+    <text class="cls-1" transform="translate(466.96 318.15)"><tspan x="0" y="0">15-19 år</tspan></text>
+  </g>
+  <g>
+    <path class="cls-3" d="M186.19,93.51V8.56c-7.89,0-17.05.64-24.86,1.74l11.82,84.12c4.26-.6,8.62-.91,13.04-.91Z"/>
+    <path class="cls-4" d="M173.15,94.42l-11.82-84.12c-15.63,2.2-27.42,5.36-42.06,11.27l31.82,78.75c6.98-2.82,14.37-4.83,22.06-5.91Z"/>
+    <path class="cls-6" d="M151.09,100.33l-31.82-78.75c-36.59,14.78-63.67,37.5-84.58,70.97l72.04,45.02c10.43-16.65,25.94-29.78,44.36-37.24Z"/>
+    <path class="cls-2" d="M92.47,187.28c0-18.26,5.23-35.31,14.26-49.72l-72.04-45.02c-8.37,13.39-13.52,24.45-18.4,39.46-30.49,93.84,20.86,194.63,114.7,225.12l26.21-80.66c-37.57-12.23-64.72-47.53-64.72-89.18Z"/>
+    <path class="cls-5" d="M186.19,8.56v84.94s.04,0,.06,0c51.79,0,93.78,41.99,93.78,93.78s-41.99,93.78-93.78,93.78c-10.14,0-19.91-1.62-29.05-4.59l-26.21,80.66c18.77,6.1,35.47,8.74,55.21,8.74,98.67,0,178.65-79.99,178.65-178.65S284.86,8.56,186.19,8.56Z"/>
+  </g>
+</svg>

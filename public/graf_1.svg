@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1158.25 550.31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd44a;
+      }
+
+      .cls-2 {
+        fill: #ffe688;
+      }
+
+      .cls-3 {
+        font-family: ArialMT, Arial;
+        font-size: 24px;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: #231f20;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 38.38px;
+      }
+
+      .cls-6 {
+        fill: #ffc228;
+      }
+
+      .cls-7 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="cls-7" x1="125.47" y1="429.86" x2="1147.05" y2="429.86"/>
+    <g>
+      <line class="cls-7" x1="125.47" y1="429.86" x2="125.47" y2="419.63"/>
+      <line class="cls-7" x1="380.87" y1="429.86" x2="380.87" y2="419.63"/>
+      <line class="cls-7" x1="636.26" y1="429.86" x2="636.26" y2="419.63"/>
+      <line class="cls-7" x1="891.66" y1="429.86" x2="891.66" y2="419.63"/>
+      <line class="cls-7" x1="1147.05" y1="429.86" x2="1147.05" y2="419.63"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <text class="cls-5" transform="translate(59.43 444.26)"><tspan x="0" y="0">0%</tspan></text>
+      <text class="cls-5" transform="translate(59.43 341.91)"><tspan x="0" y="0">5%</tspan></text>
+      <text class="cls-5" transform="translate(39.74 239.57)"><tspan x="0" y="0">10%</tspan></text>
+      <text class="cls-5" transform="translate(39.74 137.22)"><tspan x="0" y="0">15%</tspan></text>
+      <text class="cls-5" transform="translate(39.74 34.88)"><tspan x="0" y="0">20%</tspan></text>
+    </g>
+    <line class="cls-7" x1="125.47" y1="429.86" x2="125.47" y2="20.49"/>
+    <g>
+      <line class="cls-7" x1="125.47" y1="429.86" x2="151.01" y2="429.86"/>
+      <line class="cls-7" x1="125.47" y1="327.52" x2="151.01" y2="327.52"/>
+      <line class="cls-7" x1="125.47" y1="225.18" x2="151.01" y2="225.18"/>
+      <line class="cls-7" x1="125.47" y1="122.83" x2="151.01" y2="122.83"/>
+      <line class="cls-7" x1="125.47" y1="20.49" x2="151.01" y2="20.49"/>
+    </g>
+  </g>
+  <rect class="cls-6" x="180.18" y="494.02" width="127.7" height="40.94"/>
+  <polygon class="cls-6" points="1019.35 429.86 253.17 429.86 253.17 307.05 508.56 184.24 763.96 20.49 1019.35 143.3 1019.35 429.86"/>
+  <rect class="cls-1" x="497.31" y="494.02" width="127.7" height="40.94"/>
+  <polygon class="cls-1" points="1019.35 429.86 253.17 429.86 253.17 327.52 508.56 225.18 763.96 122.83 1019.35 163.77 1019.35 429.86"/>
+  <rect class="cls-2" x="816.76" y="494.02" width="127.7" height="40.94"/>
+  <polygon class="cls-2" points="1019.35 429.86 253.17 429.86 253.17 368.46 508.56 286.58 763.96 204.71 1019.35 225.18 1019.35 429.86"/>
+  <text class="cls-5" transform="translate(323.84 528.88)"><tspan class="cls-8" x="0" y="0">M</tspan><tspan class="cls-4" x="31.09" y="0">åndlig</tspan></text>
+  <text class="cls-5" transform="translate(640.97 528.88)"><tspan x="0" y="0">Ugenlig</tspan></text>
+  <text class="cls-5" transform="translate(960.42 528.88)"><tspan x="0" y="0">Daglig</tspan></text>
+  <g>
+    <text class="cls-5" transform="translate(979.98 465.05)"><tspan x="0" y="0">2023</tspan></text>
+    <text class="cls-5" transform="translate(724.58 465.05)"><tspan x="0" y="0">2022</tspan></text>
+    <text class="cls-5" transform="translate(469.19 465.05)"><tspan x="0" y="0">2021</tspan></text>
+    <text class="cls-5" transform="translate(213.79 465.05)"><tspan x="0" y="0">2020</tspan></text>
+  </g>
+  <text class="cls-3" transform="translate(33.34 287.2) rotate(-90)"><tspan x="0" y="0">Dækning %</tspan></text>
+</svg>

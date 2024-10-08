@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 808.22 636.68">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 31.68px;
+      }
+
+      .cls-5 {
+        fill: #f9a7b5;
+      }
+
+      .cls-6 {
+        font-size: 36px;
+      }
+
+      .cls-6, .cls-7 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-7 {
+        font-size: 24px;
+      }
+
+      .cls-8 {
+        fill: #ed833a;
+      }
+
+      .cls-4 {
+        fill: #231f20;
+      }
+
+      .cls-9 {
+        fill: #ffc228;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10 {
+        fill: #acded5;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="cls-2" x1="118.24" y1="522.75" x2="794.18" y2="522.75"/>
+    <g>
+      <line class="cls-2" x1="118.24" y1="522.75" x2="118.24" y2="510.25"/>
+      <line class="cls-2" x1="794.18" y1="522.75" x2="794.18" y2="510.25"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <text class="cls-4" transform="translate(66.33 534.63)"><tspan x="0" y="0">0%</tspan></text>
+      <text class="cls-4" transform="translate(50.08 472.15)"><tspan x="0" y="0">10%</tspan></text>
+      <text class="cls-4" transform="translate(50.08 409.68)"><tspan x="0" y="0">20%</tspan></text>
+      <text class="cls-4" transform="translate(50.08 347.2)"><tspan x="0" y="0">30%</tspan></text>
+      <text class="cls-4" transform="translate(50.08 284.73)"><tspan x="0" y="0">40%</tspan></text>
+      <text class="cls-4" transform="translate(50.08 222.25)"><tspan x="0" y="0">50%</tspan></text>
+      <text class="cls-4" transform="translate(50.08 159.78)"><tspan x="0" y="0">60%</tspan></text>
+      <text class="cls-4" transform="translate(50.08 97.3)"><tspan x="0" y="0">70%</tspan></text>
+      <text class="cls-4" transform="translate(50.08 34.83)"><tspan x="0" y="0">80%</tspan></text>
+    </g>
+    <line class="cls-2" x1="118.24" y1="522.75" x2="118.24" y2="22.95"/>
+    <g>
+      <line class="cls-2" x1="118.24" y1="522.75" x2="135.14" y2="522.75"/>
+      <line class="cls-2" x1="118.24" y1="460.27" x2="135.14" y2="460.27"/>
+      <line class="cls-2" x1="118.24" y1="397.8" x2="135.14" y2="397.8"/>
+      <line class="cls-2" x1="118.24" y1="335.32" x2="135.14" y2="335.32"/>
+      <line class="cls-2" x1="118.24" y1="272.85" x2="135.14" y2="272.85"/>
+      <line class="cls-2" x1="118.24" y1="210.37" x2="135.14" y2="210.37"/>
+      <line class="cls-2" x1="118.24" y1="147.9" x2="135.14" y2="147.9"/>
+      <line class="cls-2" x1="118.24" y1="85.42" x2="135.14" y2="85.42"/>
+      <line class="cls-2" x1="118.24" y1="22.95" x2="135.14" y2="22.95"/>
+    </g>
+  </g>
+  <rect class="cls-8" x="634.69" y="570.96" width="84.49" height="49.98"/>
+  <g>
+    <rect class="cls-1" x="598.16" y="179.13" width="121.67" height="343.61"/>
+    <rect class="cls-8" x="598.16" y="179.13" width="121.67" height="343.61"/>
+    <text class="cls-6" transform="translate(622.97 167.35)"><tspan x="0" y="0">55%</tspan></text>
+  </g>
+  <rect class="cls-9" x="463.14" y="570.96" width="84.49" height="49.98"/>
+  <g>
+    <rect class="cls-1" x="462.97" y="129.15" width="121.67" height="393.59"/>
+    <rect class="cls-9" x="462.97" y="129.15" width="121.67" height="393.59"/>
+    <text class="cls-6" transform="translate(487.78 117.37)"><tspan x="0" y="0">63%</tspan></text>
+  </g>
+  <rect class="cls-5" x="291.58" y="570.96" width="84.49" height="49.98"/>
+  <g>
+    <rect class="cls-1" x="327.78" y="260.35" width="121.67" height="262.4"/>
+    <rect class="cls-5" x="327.78" y="260.35" width="121.67" height="262.4"/>
+    <text class="cls-6" transform="translate(352.59 248.57)"><tspan x="0" y="0">42%</tspan></text>
+  </g>
+  <rect class="cls-10" x="118.24" y="570.96" width="84.49" height="49.98"/>
+  <g>
+    <rect class="cls-1" x="192.6" y="391.55" width="121.67" height="131.2"/>
+    <rect class="cls-10" x="192.6" y="391.55" width="121.67" height="131.2"/>
+    <text class="cls-6" transform="translate(217.4 379.77)"><tspan x="0" y="0">21%</tspan></text>
+  </g>
+  <text class="cls-3" transform="translate(729.75 607.83)"><tspan x="0" y="0">2023</tspan></text>
+  <text class="cls-3" transform="translate(558.19 607.83)"><tspan x="0" y="0">2022</tspan></text>
+  <text class="cls-3" transform="translate(386.63 607.83)"><tspan x="0" y="0">2021</tspan></text>
+  <text class="cls-3" transform="translate(213.3 607.83)"><tspan x="0" y="0">2020</tspan></text>
+  <text class="cls-3" transform="translate(402.67 554.32)"><tspan x="0" y="0">15-19 år</tspan></text>
+  <text class="cls-7" transform="translate(29.98 334.01) rotate(-90)"><tspan x="0" y="0">Dækning %</tspan></text>
+</svg>

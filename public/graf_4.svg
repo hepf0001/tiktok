@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1411.68 535.66">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 36.06px;
+      }
+
+      .cls-5 {
+        fill: #f9a7b5;
+      }
+
+      .cls-6 {
+        font-size: 36px;
+      }
+
+      .cls-6, .cls-7 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-7 {
+        font-size: 24px;
+      }
+
+      .cls-8 {
+        fill: #ed833a;
+      }
+
+      .cls-4 {
+        fill: #231f20;
+      }
+
+      .cls-9 {
+        fill: #ffc228;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10 {
+        fill: #acded5;
+      }
+
+      .cls-11 {
+        letter-spacing: -.07em;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="cls-2" x1="132.4" y1="419.39" x2="1387.54" y2="419.39"/>
+    <g>
+      <line class="cls-2" x1="132.4" y1="419.39" x2="132.4" y2="409.77"/>
+      <line class="cls-2" x1="550.78" y1="419.39" x2="550.78" y2="409.77"/>
+      <line class="cls-2" x1="969.16" y1="419.39" x2="969.16" y2="409.77"/>
+      <line class="cls-2" x1="1387.54" y1="419.39" x2="1387.54" y2="409.77"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <text class="cls-4" transform="translate(65.73 432.91)"><tspan x="0" y="0">0%</tspan></text>
+      <text class="cls-4" transform="translate(65.73 377.97)"><tspan x="0" y="0">5%</tspan></text>
+      <text class="cls-4" transform="translate(47.24 323.02)"><tspan x="0" y="0">10%</tspan></text>
+      <text class="cls-4" transform="translate(47.24 268.07)"><tspan x="0" y="0">15%</tspan></text>
+      <text class="cls-4" transform="translate(47.24 213.12)"><tspan x="0" y="0">20%</tspan></text>
+      <text class="cls-4" transform="translate(47.24 158.17)"><tspan x="0" y="0">25%</tspan></text>
+      <text class="cls-4" transform="translate(47.24 103.22)"><tspan x="0" y="0">30%</tspan></text>
+      <text class="cls-4" transform="translate(47.24 48.28)"><tspan x="0" y="0">35%</tspan></text>
+    </g>
+    <line class="cls-2" x1="132.4" y1="419.39" x2="132.4" y2="34.75"/>
+    <g>
+      <line class="cls-2" x1="132.4" y1="419.39" x2="163.78" y2="419.39"/>
+      <line class="cls-2" x1="132.4" y1="364.44" x2="163.78" y2="364.44"/>
+      <line class="cls-2" x1="132.4" y1="309.49" x2="163.78" y2="309.49"/>
+      <line class="cls-2" x1="132.4" y1="254.55" x2="163.78" y2="254.55"/>
+      <line class="cls-2" x1="132.4" y1="199.6" x2="163.78" y2="199.6"/>
+      <line class="cls-2" x1="132.4" y1="144.65" x2="163.78" y2="144.65"/>
+      <line class="cls-2" x1="132.4" y1="89.7" x2="163.78" y2="89.7"/>
+      <line class="cls-2" x1="132.4" y1="34.75" x2="163.78" y2="34.75"/>
+    </g>
+  </g>
+  <rect class="cls-8" x="1085.92" y="475.8" width="156.89" height="38.46"/>
+  <g>
+    <g>
+      <rect class="cls-1" x="429.45" y="45.74" width="75.31" height="373.65"/>
+      <rect class="cls-8" x="429.45" y="45.74" width="75.31" height="373.65"/>
+      <text class="cls-6" transform="translate(431.08 38.45)"><tspan x="0" y="0">34%</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-1" x="847.83" y="243.56" width="75.31" height="175.83"/>
+      <rect class="cls-8" x="847.83" y="243.56" width="75.31" height="175.83"/>
+      <text class="cls-6" transform="translate(849.46 236.26)"><tspan x="0" y="0">16%</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-1" x="1266.21" y="342.46" width="75.31" height="76.93"/>
+      <rect class="cls-8" x="1266.21" y="342.46" width="75.31" height="76.93"/>
+      <text class="cls-6" transform="translate(1277.85 335.17)"><tspan x="0" y="0">7%</tspan></text>
+    </g>
+  </g>
+  <rect class="cls-9" x="765.1" y="475.8" width="156.89" height="38.46"/>
+  <g>
+    <g>
+      <rect class="cls-1" x="345.78" y="78.71" width="75.31" height="340.68"/>
+      <rect class="cls-9" x="345.78" y="78.71" width="75.31" height="340.68"/>
+      <text class="cls-6" transform="translate(347.4 71.42)"><tspan x="0" y="0">31%</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-1" x="764.16" y="298.5" width="75.31" height="120.89"/>
+      <rect class="cls-9" x="764.16" y="298.5" width="75.31" height="120.89"/>
+      <text class="cls-6" transform="translate(767.12 291.21)"><tspan class="cls-11" x="0" y="0">1</tspan><tspan x="17.35" y="0">1%</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-1" x="1182.54" y="375.43" width="75.31" height="43.96"/>
+      <rect class="cls-9" x="1182.54" y="375.43" width="75.31" height="43.96"/>
+      <text class="cls-6" transform="translate(1194.18 368.14)"><tspan x="0" y="0">4%</tspan></text>
+    </g>
+  </g>
+  <rect class="cls-5" x="450.63" y="475.8" width="156.89" height="38.46"/>
+  <g>
+    <g>
+      <rect class="cls-1" x="262.1" y="232.57" width="75.31" height="186.82"/>
+      <rect class="cls-5" x="262.1" y="232.57" width="75.31" height="186.82"/>
+      <text class="cls-6" transform="translate(263.73 225.28)"><tspan x="0" y="0">17%</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-1" x="680.48" y="309.49" width="75.31" height="109.9"/>
+      <rect class="cls-5" x="680.48" y="309.49" width="75.31" height="109.9"/>
+      <text class="cls-6" transform="translate(682.11 302.2)"><tspan x="0" y="0">10%</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-1" x="1098.86" y="397.41" width="75.31" height="21.98"/>
+      <rect class="cls-5" x="1098.86" y="397.41" width="75.31" height="21.98"/>
+      <text class="cls-6" transform="translate(1110.5 390.12)"><tspan x="0" y="0">2%</tspan></text>
+    </g>
+  </g>
+  <rect class="cls-10" x="132.4" y="475.8" width="156.89" height="38.46"/>
+  <g>
+    <g>
+      <rect class="cls-1" x="178.42" y="254.55" width="75.31" height="164.84"/>
+      <rect class="cls-10" x="178.42" y="254.55" width="75.31" height="164.84"/>
+      <text class="cls-6" transform="translate(180.05 247.25)"><tspan x="0" y="0">15%</tspan></text>
+    </g>
+    <text class="cls-6" transform="translate(608.44 412.1)"><tspan x="0" y="0">0%</tspan></text>
+    <g>
+      <rect class="cls-1" x="1015.19" y="408.4" width="75.31" height="10.99"/>
+      <rect class="cls-10" x="1015.19" y="408.4" width="75.31" height="10.99"/>
+      <text class="cls-6" transform="translate(1026.82 401.11)"><tspan x="0" y="0">1%</tspan></text>
+    </g>
+  </g>
+  <text class="cls-3" transform="translate(1262.42 508.56)"><tspan x="0" y="0">2023</tspan></text>
+  <text class="cls-3" transform="translate(941.6 508.56)"><tspan x="0" y="0">2022</tspan></text>
+  <text class="cls-3" transform="translate(627.14 508.56)"><tspan x="0" y="0">2021</tspan></text>
+  <text class="cls-3" transform="translate(308.91 508.56)"><tspan x="0" y="0">2020</tspan></text>
+  <g>
+    <text class="cls-3" transform="translate(1117.41 452.45)"><tspan x="0" y="0">32-46 år</tspan></text>
+    <text class="cls-3" transform="translate(699.03 452.45)"><tspan x="0" y="0">25-31 år</tspan></text>
+    <text class="cls-3" transform="translate(280.65 452.45)"><tspan x="0" y="0">20-24 år</tspan></text>
+  </g>
+  <text class="cls-7" transform="translate(30.55 306.26) rotate(-90)"><tspan x="0" y="0">Dækning %</tspan></text>
+</svg>
